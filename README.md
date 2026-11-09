@@ -68,3 +68,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zuhairhassan52)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zuhairahmed952@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-7595-6848)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F5C4A?style=flat-square&logo=googlechrome&logoColor=white)](https://zuhair-ahmed.dev)
