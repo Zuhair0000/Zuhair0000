@@ -4,7 +4,7 @@
 
 - 🎓 Software Engineering graduate, Universiti Tun Hussein Onn Malaysia (UTHM)
 - 🔭 Currently building a **bilingual (Arabic/English) AI onboarding platform** with a RAG assistant and passport OCR during my industrial training
-- 📄 IEEE conference paper (eSmarTA 2026) · first-author study on **Arabic/English RAG evaluation**
+- 📄 Corresponding author of a paper published at **IEEE eSmarTA 2026** · first author of a completed study on **Arabic/English RAG evaluation** (submission in progress)
 - 🌍 Fluent in Arabic and English · open to AI/ML engineering roles from **February 2027**
 
 ---
