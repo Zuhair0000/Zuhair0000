@@ -4,7 +4,7 @@
 
 - 🎓 Software Engineering graduate, Universiti Tun Hussein Onn Malaysia (UTHM)
 - 🔭 Currently building a **bilingual (Arabic/English) AI onboarding platform** with a RAG assistant and passport OCR during my industrial training
-- 📄 Publications: [*Toward Improving Software Functionality through Refactoring Operations*](https://ieeexplore.ieee.org/document/11652314) (IEEE eSmarTA 2026, corresponding author) · *Lightweight ML Models for Intrusion Detection at the IoT Edge* (ICoESAT 2026, accepted, co-author) · first author of a study on **Arabic/English RAG evaluation** (submission in progress)
+- 📄 Publications: [*Toward Improving Software Functionality through Refactoring Operations*](https://ieeexplore.ieee.org/document/11652314) (IEEE eSmarTA 2026, corresponding author) · *SouqYemen: A Localized E-Commerce Marketplace for Small Businesses in Yemen* (AITCS, UTHM, accepted, first author) · *Lightweight ML Models for Intrusion Detection at the IoT Edge* (ICoESAT 2026, accepted, co-author)
 - 🌍 Fluent in Arabic and English · open to AI/ML engineering roles from **February 2027**
 
 ---
